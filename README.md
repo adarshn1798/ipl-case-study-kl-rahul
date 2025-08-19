@@ -30,7 +30,7 @@ The innings was analyzed across:
 ---
 
 ## Visuals (Created in Tableau)
-![KL Rahul Analysis](kl_rahul_analysis.png)
+![KL Rahul Analysis](KL_Rahul.png)
 
 👉 For the **detailed write-up** with explanations, refer to the file:  
 **[`KL_Rahul_Analysis.docx`](KL_Rahul_Analysis.docx)**
