@@ -47,7 +47,7 @@ The innings was analyzed across:
 
 ## Project Files  
 - `README.md`  
-- `kl_rahul_analysis.png`  
-- `KL_Rahul_Analysis.docx` (detailed write-up).  
+- `KL_Rahul.png`  
+- `KL Rahul's analysis.docx` (detailed write-up).  
 
 ---
